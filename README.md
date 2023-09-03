@@ -1,0 +1,1 @@
+Primeiro teste usando a API do Google Maps, o navegador vai perguntar se permite pegar sua localização, clique em permitir e vai aparecer no mapa a sua localização.
